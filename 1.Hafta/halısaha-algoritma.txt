@@ -1,0 +1,24 @@
+Başla
+Eğer sınavlar bittiyse halı saha organizasyonu başlat.
+Sınavlar bitmediyse bitene kadar bekle.
+Arkadaşlarına mesaj at takım kurmaya başla.
+Eğer yeterli sayıda oyuncu yoksa okul wp grubuna mesaj at.
+Yeterli oyuncu sayısına ulaşıldıysa bir halı saha bilgilendirme grubu kur.
+En yakın halı sahadan başlayarak halı sahaları ara.
+Eğer halı sahada istenilen saatlerde boş saha varsa anlaşma yap.
+İstenilen saat aralığında boş yer yoksa uygun saat aralığı bulup anlaşma yapana kadar diğer sahaları ara.
+Halı sahanın adresi ve zamanı hakkında bilgilendirme mesajını wp grubuna gönder.
+Maça 3 saat kala yemeyi kes.
+Çantanı hazırlamaya başla.
+Eğer hava soğuksa eşofman ile oyna. 
+Hava soğuk değilse şort ile oyna.
+Eğer futbol oynamaya uygun krampona sahipsen çantana koy.
+Futbol oynamaya uygun krampona sahip değilsen halı sahadan krampon kirala..
+Yeterli miktarda içecek al.
+Yola çık.
+Maç saatinden önce sahada ulaş.
+Bitir.
+
+
+
+

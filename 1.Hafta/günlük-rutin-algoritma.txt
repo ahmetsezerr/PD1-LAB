@@ -1,0 +1,23 @@
+Başla 
+Alarmı kapat
+Eğer güneş doğduysa store perdeyi aç
+Güneş doğmadıysa uyumaya devam et
+Yataktan kalk
+Yüzünü yıka
+Eğer ayılmadıysan duş al 
+Ayıldıysan üstünü değiştir
+Yemekhaneye in 
+Eğer yemekhanede çok sıra varsa tersten gir sandaviç al
+Çok sıra yoksa sıraya gir ve kahvaltı menüsü al
+Kahve al
+Eğer acelen varsa odaya merdiven kullanarak çık
+Acelen yoksa asansör kullan
+Dişlerini fırçala
+Çantanı hazırla
+Eğer o gün kodlayacaksan yanına bilgisayarını al
+Kodlayamayacaksam kitaplarını çantana koy
+Parfüm sık
+Eğer hava soğuksa mont giy
+Soğuk değilse hırka giy
+Odadan çıkış yap
+Bitir
